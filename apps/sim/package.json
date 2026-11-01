@@ -145,7 +145,7 @@
     "@xterm/xterm": "6.0.0",
     "ajv": "8.18.0",
     "archiver": "8.0.0",
-    "better-auth": "1.6.23",
+    "better-auth": "1.7.7",
     "binary-extensions": "3.1.0",
     "browser-image-compression": "^2.0.2",
     "busboy": "1.6.0",
